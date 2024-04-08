@@ -1,1 +1,3 @@
 # 331-MiniProject-Waudio
+
+this is what i did with the project, here are how you can use the files....
